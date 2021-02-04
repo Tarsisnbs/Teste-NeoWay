@@ -1,0 +1,432 @@
+{"ID": 1, "Localidade": "Abatiá", "Faixa de CEP": "86460-000 a 86464-999"}
+{"ID": 2, "Localidade": "Adrianópolis", "Faixa de CEP": "83490-000 a 83499-999"}
+{"ID": 3, "Localidade": "Agudos do Sul", "Faixa de CEP": "83850-000 a 83859-999"}
+{"ID": 4, "Localidade": "Almirante Tamandaré", "Faixa de CEP": "83500-001 a 83534-999"}
+{"ID": 5, "Localidade": "Almirante Tamandaré", "Faixa de CEP": "83500-001 a 83529-999"}
+{"ID": 6, "Localidade": "Altamira do Paraná", "Faixa de CEP": "85280-000 a 85299-999"}
+{"ID": 7, "Localidade": "Alto Paraíso", "Faixa de CEP": "87528-000 a 87529-999"}
+{"ID": 8, "Localidade": "Alto Paraná", "Faixa de CEP": "87750-000 a 87759-999"}
+{"ID": 9, "Localidade": "Alto Piquiri", "Faixa de CEP": "87580-000 a 87594-999"}
+{"ID": 10, "Localidade": "Altônia", "Faixa de CEP": "87550-000 a 87554-999"}
+{"ID": 11, "Localidade": "Alvorada do Sul", "Faixa de CEP": "86150-000 a 86159-999"}
+{"ID": 12, "Localidade": "Amaporã", "Faixa de CEP": "87850-000 a 87859-999"}
+{"ID": 13, "Localidade": "Ampére", "Faixa de CEP": "85640-000 a 85649-999"}
+{"ID": 14, "Localidade": "Anahy", "Faixa de CEP": "85425-000 a 85429-999"}
+{"ID": 15, "Localidade": "Andirá", "Faixa de CEP": "86380-000 a 86384-999"}
+{"ID": 16, "Localidade": "Ângulo", "Faixa de CEP": "86755-000 a 86759-999"}
+{"ID": 17, "Localidade": "Antonina", "Faixa de CEP": "83370-000 a 83389-999"}
+{"ID": 18, "Localidade": "Antônio Olinto", "Faixa de CEP": "83980-000 a 83999-999"}
+{"ID": 19, "Localidade": "Apucarana", "Faixa de CEP": "86800-001 a 86819-999"}
+{"ID": 20, "Localidade": "Apucarana", "Faixa de CEP": "86800-001 a 86815-999"}
+{"ID": 21, "Localidade": "Arapongas", "Faixa de CEP": "86700-001 a 86719-999"}
+{"ID": 22, "Localidade": "Arapongas", "Faixa de CEP": "86700-001 a 86716-999"}
+{"ID": 23, "Localidade": "Arapoti", "Faixa de CEP": "84990-000 a 84999-999"}
+{"ID": 24, "Localidade": "Arapuã", "Faixa de CEP": "86884-000 a 86889-999"}
+{"ID": 25, "Localidade": "Araruna", "Faixa de CEP": "87260-000 a 87264-999"}
+{"ID": 26, "Localidade": "Araucária", "Faixa de CEP": "83700-001 a 83729-999"}
+{"ID": 27, "Localidade": "Araucária", "Faixa de CEP": "83700-001 a 83724-999"}
+{"ID": 28, "Localidade": "Ariranha do Ivaí", "Faixa de CEP": "86880-000 a 86883-999"}
+{"ID": 29, "Localidade": "Assaí", "Faixa de CEP": "86220-000 a 86224-999"}
+{"ID": 30, "Localidade": "Assis Chateaubriand", "Faixa de CEP": "85935-000 a 85939-999"}
+{"ID": 31, "Localidade": "Astorga", "Faixa de CEP": "86730-000 a 86749-999"}
+{"ID": 32, "Localidade": "Atalaia", "Faixa de CEP": "87630-000 a 87639-999"}
+{"ID": 33, "Localidade": "Balsa Nova", "Faixa de CEP": "83650-000 a 83699-999"}
+{"ID": 34, "Localidade": "Bandeirantes", "Faixa de CEP": "86360-000 a 86369-999"}
+{"ID": 35, "Localidade": "Barbosa Ferraz", "Faixa de CEP": "86960-000 a 86969-999"}
+{"ID": 36, "Localidade": "Barra do Jacaré", "Faixa de CEP": "86385-000 a 86389-999"}
+{"ID": 37, "Localidade": "Barracão", "Faixa de CEP": "85700-000 a 85707-999"}
+{"ID": 38, "Localidade": "Bela Vista da Caroba", "Faixa de CEP": "85745-000 a 85749-999"}
+{"ID": 39, "Localidade": "Bela Vista do Paraíso", "Faixa de CEP": "86130-000 a 86139-999"}
+{"ID": 40, "Localidade": "Bituruna", "Faixa de CEP": "84640-000 a 84659-999"}
+{"ID": 41, "Localidade": "Boa Esperança", "Faixa de CEP": "87390-000 a 87394-999"}
+{"ID": 42, "Localidade": "Boa Esperança do Iguaçu", "Faixa de CEP": "85680-000 a 85684-999"}
+{"ID": 43, "Localidade": "Boa Ventura de São Roque", "Faixa de CEP": "85225-000 a 85229-999"}
+{"ID": 44, "Localidade": "Boa Vista da Aparecida", "Faixa de CEP": "85780-000 a 85789-999"}
+{"ID": 45, "Localidade": "Bocaiúva do Sul", "Faixa de CEP": "83450-000 a 83479-999"}
+{"ID": 46, "Localidade": "Bom Jesus do Sul", "Faixa de CEP": "85708-000 a 85709-999"}
+{"ID": 47, "Localidade": "Bom Sucesso", "Faixa de CEP": "86940-000 a 86944-999"}
+{"ID": 48, "Localidade": "Bom Sucesso do Sul", "Faixa de CEP": "85515-000 a 85519-999"}
+{"ID": 49, "Localidade": "Borrazópolis", "Faixa de CEP": "86925-000 a 86929-999"}
+{"ID": 50, "Localidade": "Braganey", "Faixa de CEP": "85430-000 a 85439-999"}
+{"ID": 51, "Localidade": "Brasilândia do Sul", "Faixa de CEP": "87595-000 a 87599-999"}
+{"ID": 52, "Localidade": "Cafeara", "Faixa de CEP": "86640-000 a 86649-999"}
+{"ID": 53, "Localidade": "Cafelândia", "Faixa de CEP": "85415-000 a 85419-999"}
+{"ID": 54, "Localidade": "Cafezal do Sul", "Faixa de CEP": "87565-000 a 87569-999"}
+{"ID": 55, "Localidade": "Califórnia", "Faixa de CEP": "86820-000 a 86824-999"}
+{"ID": 56, "Localidade": "Cambará", "Faixa de CEP": "86390-000 a 86399-999"}
+{"ID": 57, "Localidade": "Cambé", "Faixa de CEP": "86180-001 a 86199-999"}
+{"ID": 58, "Localidade": "Cambé", "Faixa de CEP": "86180-001 a 86195-999"}
+{"ID": 59, "Localidade": "Cambira", "Faixa de CEP": "86890-000 a 86894-999"}
+{"ID": 60, "Localidade": "Campina da Lagoa", "Faixa de CEP": "87345-000 a 87354-999"}
+{"ID": 61, "Localidade": "Campina do Simão", "Faixa de CEP": "85148-000 a 85149-999"}
+{"ID": 62, "Localidade": "Campina Grande do Sul", "Faixa de CEP": "83430-000 a 83449-999"}
+{"ID": 63, "Localidade": "Campo Bonito", "Faixa de CEP": "85450-000 a 85459-999"}
+{"ID": 64, "Localidade": "Campo do Tenente", "Faixa de CEP": "83870-000 a 83879-999"}
+{"ID": 65, "Localidade": "Campo Largo", "Faixa de CEP": "83600-001 a 83649-999"}
+{"ID": 66, "Localidade": "Campo Largo", "Faixa de CEP": "83600-001 a 83640-999"}
+{"ID": 67, "Localidade": "Campo Magro", "Faixa de CEP": "83535-000 a 83539-999"}
+{"ID": 68, "Localidade": "Campo Mourão", "Faixa de CEP": "87300-001 a 87319-999"}
+{"ID": 69, "Localidade": "Campo Mourão", "Faixa de CEP": "87300-001 a 87314-999"}
+{"ID": 70, "Localidade": "Cândido de Abreu", "Faixa de CEP": "84470-000 a 84499-999"}
+{"ID": 71, "Localidade": "Candói", "Faixa de CEP": "85140-000 a 85144-999"}
+{"ID": 72, "Localidade": "Cantagalo", "Faixa de CEP": "85160-000 a 85161-999"}
+{"ID": 73, "Localidade": "Capanema", "Faixa de CEP": "85760-000 a 85769-999"}
+{"ID": 74, "Localidade": "Capitão Leônidas Marques", "Faixa de CEP": "85790-000 a 85794-999"}
+{"ID": 75, "Localidade": "Carambeí", "Faixa de CEP": "84145-000 a 84149-999"}
+{"ID": 76, "Localidade": "Carlópolis", "Faixa de CEP": "86420-000 a 86429-999"}
+{"ID": 77, "Localidade": "Cascavel", "Faixa de CEP": "85800-001 a 85824-999"}
+{"ID": 78, "Localidade": "Cascavel", "Faixa de CEP": "85800-001 a 85820-999"}
+{"ID": 79, "Localidade": "Castro", "Faixa de CEP": "84160-001 a 84199-999"}
+{"ID": 80, "Localidade": "Castro", "Faixa de CEP": "84160-001 a 84184-999"}
+{"ID": 81, "Localidade": "Catanduvas", "Faixa de CEP": "85470-000 a 85477-999"}
+{"ID": 82, "Localidade": "Centenário do Sul", "Faixa de CEP": "86630-000 a 86634-999"}
+{"ID": 83, "Localidade": "Cerro Azul", "Faixa de CEP": "83570-000 a 83589-999"}
+{"ID": 84, "Localidade": "Céu Azul", "Faixa de CEP": "85840-000 a 85844-999"}
+{"ID": 85, "Localidade": "Chopinzinho", "Faixa de CEP": "85560-000 a 85564-999"}
+{"ID": 86, "Localidade": "Cianorte", "Faixa de CEP": "87200-001 a 87214-999"}
+{"ID": 87, "Localidade": "Cianorte", "Faixa de CEP": "87200-001 a 87212-999"}
+{"ID": 88, "Localidade": "Cidade Gaúcha", "Faixa de CEP": "87820-000 a 87829-999"}
+{"ID": 89, "Localidade": "Clevelândia", "Faixa de CEP": "85530-000 a 85539-999"}
+{"ID": 90, "Localidade": "Colombo", "Faixa de CEP": "83400-001 a 83419-999"}
+{"ID": 91, "Localidade": "Colombo", "Faixa de CEP": "83400-001 a 83415-999"}
+{"ID": 92, "Localidade": "Colorado", "Faixa de CEP": "86690-000 a 86699-999"}
+{"ID": 93, "Localidade": "Congonhinhas", "Faixa de CEP": "86320-000 a 86329-999"}
+{"ID": 94, "Localidade": "Conselheiro Mairinck", "Faixa de CEP": "86480-000 a 86489-999"}
+{"ID": 95, "Localidade": "Contenda", "Faixa de CEP": "83730-000 a 83749-999"}
+{"ID": 96, "Localidade": "Corbélia", "Faixa de CEP": "85420-000 a 85422-999"}
+{"ID": 97, "Localidade": "Cornélio Procópio", "Faixa de CEP": "86300-000 a 86309-999"}
+{"ID": 98, "Localidade": "Coronel Domingos Soares", "Faixa de CEP": "85557-000 a 85559-999"}
+{"ID": 99, "Localidade": "Coronel Vivida", "Faixa de CEP": "85550-000 a 85554-999"}
+{"ID": 100, "Localidade": "Corumbataí do Sul", "Faixa de CEP": "86970-000 a 86974-999"}
+{"ID": 101, "Localidade": "Cruz Machado", "Faixa de CEP": "84620-000 a 84629-999"}
+{"ID": 102, "Localidade": "Cruzeiro do Iguaçu", "Faixa de CEP": "85598-000 a 85599-999"}
+{"ID": 103, "Localidade": "Cruzeiro do Oeste", "Faixa de CEP": "87400-000 a 87429-999"}
+{"ID": 104, "Localidade": "Cruzeiro do Sul", "Faixa de CEP": "87650-000 a 87659-999"}
+{"ID": 105, "Localidade": "Cruzmaltina", "Faixa de CEP": "86855-000 a 86859-999"}
+{"ID": 106, "Localidade": "Curitiba", "Faixa de CEP": "80000-001 a 82999-999"}
+{"ID": 107, "Localidade": "Curitiba", "Faixa de CEP": "80000-001 a 82999-999"}
+{"ID": 108, "Localidade": "Curiúva", "Faixa de CEP": "84280-000 a 84284-999"}
+{"ID": 109, "Localidade": "Diamante do Norte", "Faixa de CEP": "87990-000 a 87999-999"}
+{"ID": 110, "Localidade": "Diamante do Sul", "Faixa de CEP": "85408-000 a 85409-999"}
+{"ID": 111, "Localidade": "Diamante d'Oeste", "Faixa de CEP": "85896-000 a 85897-999"}
+{"ID": 112, "Localidade": "Dois Vizinhos", "Faixa de CEP": "85660-000 a 85669-999"}
+{"ID": 113, "Localidade": "Douradina", "Faixa de CEP": "87485-000 a 87489-999"}
+{"ID": 114, "Localidade": "Doutor Camargo", "Faixa de CEP": "87155-000 a 87159-999"}
+{"ID": 115, "Localidade": "Doutor Ulysses", "Faixa de CEP": "83590-000 a 83599-999"}
+{"ID": 116, "Localidade": "Enéas Marques", "Faixa de CEP": "85630-000 a 85634-999"}
+{"ID": 117, "Localidade": "Engenheiro Beltrão", "Faixa de CEP": "87270-000 a 87279-999"}
+{"ID": 118, "Localidade": "Entre Rios do Oeste", "Faixa de CEP": "85988-000 a 85989-999"}
+{"ID": 119, "Localidade": "Esperança Nova", "Faixa de CEP": "87545-000 a 87549-999"}
+{"ID": 120, "Localidade": "Espigão Alto do Iguaçu", "Faixa de CEP": "85465-000 a 85469-999"}
+{"ID": 121, "Localidade": "Farol", "Faixa de CEP": "87325-000 a 87329-999"}
+{"ID": 122, "Localidade": "Faxinal", "Faixa de CEP": "86840-000 a 86844-999"}
+{"ID": 123, "Localidade": "Fazenda Rio Grande", "Faixa de CEP": "83820-001 a 83839-999"}
+{"ID": 124, "Localidade": "Fazenda Rio Grande", "Faixa de CEP": "83820-001 a 83835-999"}
+{"ID": 125, "Localidade": "Fênix", "Faixa de CEP": "86950-000 a 86959-999"}
+{"ID": 126, "Localidade": "Fernandes Pinheiro", "Faixa de CEP": "84535-000 a 84549-999"}
+{"ID": 127, "Localidade": "Figueira", "Faixa de CEP": "84285-000 a 84289-999"}
+{"ID": 128, "Localidade": "Flor da Serra do Sul", "Faixa de CEP": "85618-000 a 85619-999"}
+{"ID": 129, "Localidade": "Floraí", "Faixa de CEP": "87185-000 a 87189-999"}
+{"ID": 130, "Localidade": "Floresta", "Faixa de CEP": "87120-000 a 87129-999"}
+{"ID": 131, "Localidade": "Florestópolis", "Faixa de CEP": "86165-000 a 86169-999"}
+{"ID": 132, "Localidade": "Flórida", "Faixa de CEP": "86780-000 a 86789-999"}
+{"ID": 133, "Localidade": "Formosa do Oeste", "Faixa de CEP": "85830-000 a 85832-999"}
+{"ID": 134, "Localidade": "Foz do Iguaçu", "Faixa de CEP": "85850-001 a 85874-999"}
+{"ID": 135, "Localidade": "Foz do Iguaçu", "Faixa de CEP": "85850-001 a 85871-999"}
+{"ID": 136, "Localidade": "Foz do Jordão", "Faixa de CEP": "85145-000 a 85147-999"}
+{"ID": 137, "Localidade": "Francisco Alves", "Faixa de CEP": "87570-000 a 87579-999"}
+{"ID": 138, "Localidade": "Francisco Beltrão", "Faixa de CEP": "85600-001 a 85609-999"}
+{"ID": 139, "Localidade": "Francisco Beltrão", "Faixa de CEP": "85600-001 a 85606-999"}
+{"ID": 140, "Localidade": "General Carneiro", "Faixa de CEP": "84660-000 a 84899-999"}
+{"ID": 141, "Localidade": "Godoy Moreira", "Faixa de CEP": "86938-000 a 86939-999"}
+{"ID": 142, "Localidade": "Goioerê", "Faixa de CEP": "87360-000 a 87364-999"}
+{"ID": 143, "Localidade": "Goioxim", "Faixa de CEP": "85162-000 a 85167-999"}
+{"ID": 144, "Localidade": "Grandes Rios", "Faixa de CEP": "86845-000 a 86847-999"}
+{"ID": 145, "Localidade": "Guaíra", "Faixa de CEP": "85980-000 a 85987-999"}
+{"ID": 146, "Localidade": "Guairaçá", "Faixa de CEP": "87880-000 a 87889-999"}
+{"ID": 147, "Localidade": "Guamiranga", "Faixa de CEP": "84435-000 a 84449-999"}
+{"ID": 148, "Localidade": "Guapirama", "Faixa de CEP": "86465-000 a 86469-999"}
+{"ID": 149, "Localidade": "Guaporema", "Faixa de CEP": "87810-000 a 87819-999"}
+{"ID": 150, "Localidade": "Guaraci", "Faixa de CEP": "86620-000 a 86629-999"}
+{"ID": 151, "Localidade": "Guaraniaçu", "Faixa de CEP": "85400-000 a 85407-999"}
+{"ID": 152, "Localidade": "Guarapuava", "Faixa de CEP": "85000-001 a 85139-999"}
+{"ID": 153, "Localidade": "Guarapuava", "Faixa de CEP": "85000-001 a 85100-999"}
+{"ID": 154, "Localidade": "Guaraqueçaba", "Faixa de CEP": "83390-000 a 83399-999"}
+{"ID": 155, "Localidade": "Guaratuba", "Faixa de CEP": "83280-000 a 83299-999"}
+{"ID": 156, "Localidade": "Honório Serpa", "Faixa de CEP": "85548-000 a 85549-999"}
+{"ID": 157, "Localidade": "Ibaiti", "Faixa de CEP": "84900-000 a 84919-999"}
+{"ID": 158, "Localidade": "Ibema", "Faixa de CEP": "85478-000 a 85484-999"}
+{"ID": 159, "Localidade": "Ibiporã", "Faixa de CEP": "86200-000 a 86209-999"}
+{"ID": 160, "Localidade": "Icaraíma", "Faixa de CEP": "87530-000 a 87534-999"}
+{"ID": 161, "Localidade": "Iguaraçu", "Faixa de CEP": "86750-000 a 86754-999"}
+{"ID": 162, "Localidade": "Iguatu", "Faixa de CEP": "85423-000 a 85424-999"}
+{"ID": 163, "Localidade": "Imbaú", "Faixa de CEP": "84250-000 a 84259-999"}
+{"ID": 164, "Localidade": "Imbituva", "Faixa de CEP": "84430-000 a 84434-999"}
+{"ID": 165, "Localidade": "Inácio Martins", "Faixa de CEP": "85155-000 a 85159-999"}
+{"ID": 166, "Localidade": "Inajá", "Faixa de CEP": "87670-000 a 87679-999"}
+{"ID": 167, "Localidade": "Indianópolis", "Faixa de CEP": "87235-000 a 87239-999"}
+{"ID": 168, "Localidade": "Ipiranga", "Faixa de CEP": "84450-000 a 84459-999"}
+{"ID": 169, "Localidade": "Iporã", "Faixa de CEP": "87560-000 a 87564-999"}
+{"ID": 170, "Localidade": "Iracema do Oeste", "Faixa de CEP": "85833-000 a 85834-999"}
+{"ID": 171, "Localidade": "Irati", "Faixa de CEP": "84500-001 a 84509-999"}
+{"ID": 172, "Localidade": "Irati", "Faixa de CEP": "84500-001 a 84508-999"}
+{"ID": 173, "Localidade": "Iretama", "Faixa de CEP": "87280-000 a 87289-999"}
+{"ID": 174, "Localidade": "Itaguajé", "Faixa de CEP": "86670-000 a 86679-999"}
+{"ID": 175, "Localidade": "Itaipulândia", "Faixa de CEP": "85880-000 a 85883-999"}
+{"ID": 176, "Localidade": "Itambaracá", "Faixa de CEP": "86375-000 a 86379-999"}
+{"ID": 177, "Localidade": "Itambé", "Faixa de CEP": "87175-000 a 87179-999"}
+{"ID": 178, "Localidade": "Itapejara d'Oeste", "Faixa de CEP": "85580-000 a 85584-999"}
+{"ID": 179, "Localidade": "Itaperuçu", "Faixa de CEP": "83560-000 a 83569-999"}
+{"ID": 180, "Localidade": "Itaúna do Sul", "Faixa de CEP": "87980-000 a 87989-999"}
+{"ID": 181, "Localidade": "Ivaí", "Faixa de CEP": "84460-000 a 84469-999"}
+{"ID": 182, "Localidade": "Ivaiporã", "Faixa de CEP": "86870-000 a 86879-999"}
+{"ID": 183, "Localidade": "Ivaté", "Faixa de CEP": "87525-000 a 87527-999"}
+{"ID": 184, "Localidade": "Ivatuba", "Faixa de CEP": "87130-000 a 87139-999"}
+{"ID": 185, "Localidade": "Jaboti", "Faixa de CEP": "84930-000 a 84934-999"}
+{"ID": 186, "Localidade": "Jacarezinho", "Faixa de CEP": "86400-000 a 86409-999"}
+{"ID": 187, "Localidade": "Jaguapitã", "Faixa de CEP": "86610-000 a 86612-999"}
+{"ID": 188, "Localidade": "Jaguariaíva", "Faixa de CEP": "84200-000 a 84219-999"}
+{"ID": 189, "Localidade": "Jandaia do Sul", "Faixa de CEP": "86900-000 a 86909-999"}
+{"ID": 190, "Localidade": "Janiópolis", "Faixa de CEP": "87380-000 a 87389-999"}
+{"ID": 191, "Localidade": "Japira", "Faixa de CEP": "84920-000 a 84924-999"}
+{"ID": 192, "Localidade": "Japurá", "Faixa de CEP": "87225-000 a 87229-999"}
+{"ID": 193, "Localidade": "Jardim Alegre", "Faixa de CEP": "86860-000 a 86864-999"}
+{"ID": 194, "Localidade": "Jardim Olinda", "Faixa de CEP": "87690-000 a 87699-999"}
+{"ID": 195, "Localidade": "Jataizinho", "Faixa de CEP": "86210-000 a 86219-999"}
+{"ID": 196, "Localidade": "Jesuítas", "Faixa de CEP": "85835-000 a 85839-999"}
+{"ID": 197, "Localidade": "Joaquim Távora", "Faixa de CEP": "86455-000 a 86459-999"}
+{"ID": 198, "Localidade": "Jundiaí do Sul", "Faixa de CEP": "86470-000 a 86479-999"}
+{"ID": 199, "Localidade": "Juranda", "Faixa de CEP": "87355-000 a 87359-999"}
+{"ID": 200, "Localidade": "Jussara", "Faixa de CEP": "87230-000 a 87234-999"}
+{"ID": 201, "Localidade": "Kaloré", "Faixa de CEP": "86920-000 a 86924-999"}
+{"ID": 202, "Localidade": "Lapa", "Faixa de CEP": "83750-000 a 83799-999"}
+{"ID": 203, "Localidade": "Laranjal", "Faixa de CEP": "85275-000 a 85279-999"}
+{"ID": 204, "Localidade": "Laranjeiras do Sul", "Faixa de CEP": "85300-001 a 85339-999"}
+{"ID": 205, "Localidade": "Laranjeiras do Sul", "Faixa de CEP": "85300-001 a 85319-999"}
+{"ID": 206, "Localidade": "Leópolis", "Faixa de CEP": "86330-000 a 86339-999"}
+{"ID": 207, "Localidade": "Lidianópolis", "Faixa de CEP": "86865-000 a 86869-999"}
+{"ID": 208, "Localidade": "Lindoeste", "Faixa de CEP": "85826-000 a 85829-999"}
+{"ID": 209, "Localidade": "Loanda", "Faixa de CEP": "87900-000 a 87909-999"}
+{"ID": 210, "Localidade": "Lobato", "Faixa de CEP": "86790-000 a 86799-999"}
+{"ID": 211, "Localidade": "Londrina", "Faixa de CEP": "86000-001 a 86124-999"}
+{"ID": 212, "Localidade": "Londrina", "Faixa de CEP": "86000-001 a 86099-999"}
+{"ID": 213, "Localidade": "Luiziana", "Faixa de CEP": "87290-000 a 87299-999"}
+{"ID": 214, "Localidade": "Lunardelli", "Faixa de CEP": "86935-000 a 86937-999"}
+{"ID": 215, "Localidade": "Lupionópolis", "Faixa de CEP": "86635-000 a 86639-999"}
+{"ID": 216, "Localidade": "Mallet", "Faixa de CEP": "84570-000 a 84599-999"}
+{"ID": 217, "Localidade": "Mamborê", "Faixa de CEP": "87340-000 a 87344-999"}
+{"ID": 218, "Localidade": "Mandaguaçu", "Faixa de CEP": "87160-000 a 87169-999"}
+{"ID": 219, "Localidade": "Mandaguari", "Faixa de CEP": "86975-000 a 86989-999"}
+{"ID": 220, "Localidade": "Mandirituba", "Faixa de CEP": "83800-000 a 83819-999"}
+{"ID": 221, "Localidade": "Manfrinópolis", "Faixa de CEP": "85628-000 a 85629-999"}
+{"ID": 222, "Localidade": "Mangueirinha", "Faixa de CEP": "85540-000 a 85547-999"}
+{"ID": 223, "Localidade": "Manoel Ribas", "Faixa de CEP": "85260-000 a 85269-999"}
+{"ID": 224, "Localidade": "Marechal Cândido Rondon", "Faixa de CEP": "85960-000 a 85979-999"}
+{"ID": 225, "Localidade": "Maria Helena", "Faixa de CEP": "87480-000 a 87484-999"}
+{"ID": 226, "Localidade": "Marialva", "Faixa de CEP": "86990-000 a 86999-999"}
+{"ID": 227, "Localidade": "Marilândia do Sul", "Faixa de CEP": "86825-000 a 86827-999"}
+{"ID": 228, "Localidade": "Marilena", "Faixa de CEP": "87960-000 a 87969-999"}
+{"ID": 229, "Localidade": "Mariluz", "Faixa de CEP": "87470-000 a 87479-999"}
+{"ID": 230, "Localidade": "Maringá", "Faixa de CEP": "87000-001 a 87109-999"}
+{"ID": 231, "Localidade": "Maringá", "Faixa de CEP": "87000-001 a 87109-999"}
+{"ID": 232, "Localidade": "Mariópolis", "Faixa de CEP": "85525-000 a 85529-999"}
+{"ID": 233, "Localidade": "Maripá", "Faixa de CEP": "85955-000 a 85959-999"}
+{"ID": 234, "Localidade": "Marmeleiro", "Faixa de CEP": "85615-000 a 85617-999"}
+{"ID": 235, "Localidade": "Marquinho", "Faixa de CEP": "85168-000 a 85169-999"}
+{"ID": 236, "Localidade": "Marumbi", "Faixa de CEP": "86910-000 a 86919-999"}
+{"ID": 237, "Localidade": "Matelândia", "Faixa de CEP": "85887-000 a 85887-999"}
+{"ID": 238, "Localidade": "Matinhos", "Faixa de CEP": "83260-000 a 83279-999"}
+{"ID": 239, "Localidade": "Mato Rico", "Faixa de CEP": "85240-000 a 85249-999"}
+{"ID": 240, "Localidade": "Mauá da Serra", "Faixa de CEP": "86828-000 a 86829-999"}
+{"ID": 241, "Localidade": "Medianeira", "Faixa de CEP": "85884-000 a 85884-999"}
+{"ID": 242, "Localidade": "Mercedes", "Faixa de CEP": "85998-000 a 85999-999"}
+{"ID": 243, "Localidade": "Mirador", "Faixa de CEP": "87840-000 a 87849-999"}
+{"ID": 244, "Localidade": "Miraselva", "Faixa de CEP": "86615-000 a 86617-999"}
+{"ID": 245, "Localidade": "Missal", "Faixa de CEP": "85890-000 a 85891-999"}
+{"ID": 246, "Localidade": "Moreira Sales", "Faixa de CEP": "87370-000 a 87379-999"}
+{"ID": 247, "Localidade": "Morretes", "Faixa de CEP": "83350-000 a 83369-999"}
+{"ID": 248, "Localidade": "Munhoz de Melo", "Faixa de CEP": "86760-000 a 86769-999"}
+{"ID": 249, "Localidade": "Nossa Senhora das Graças", "Faixa de CEP": "86680-000 a 86689-999"}
+{"ID": 250, "Localidade": "Nova Aliança do Ivaí", "Faixa de CEP": "87790-000 a 87799-999"}
+{"ID": 251, "Localidade": "Nova América da Colina", "Faixa de CEP": "86230-000 a 86239-999"}
+{"ID": 252, "Localidade": "Nova Aurora", "Faixa de CEP": "85410-000 a 85414-999"}
+{"ID": 253, "Localidade": "Nova Cantu", "Faixa de CEP": "87330-000 a 87339-999"}
+{"ID": 254, "Localidade": "Nova Esperança", "Faixa de CEP": "87600-000 a 87629-999"}
+{"ID": 255, "Localidade": "Nova Esperança do Sudoeste", "Faixa de CEP": "85635-000 a 85639-999"}
+{"ID": 256, "Localidade": "Nova Fátima", "Faixa de CEP": "86310-000 a 86314-999"}
+{"ID": 257, "Localidade": "Nova Laranjeiras", "Faixa de CEP": "85350-000 a 85389-999"}
+{"ID": 258, "Localidade": "Nova Londrina", "Faixa de CEP": "87970-000 a 87979-999"}
+{"ID": 259, "Localidade": "Nova Olímpia", "Faixa de CEP": "87490-000 a 87499-999"}
+{"ID": 260, "Localidade": "Nova Prata do Iguaçu", "Faixa de CEP": "85685-000 a 85699-999"}
+{"ID": 261, "Localidade": "Nova Santa Bárbara", "Faixa de CEP": "86250-000 a 86269-999"}
+{"ID": 262, "Localidade": "Nova Santa Rosa", "Faixa de CEP": "85930-000 a 85932-999"}
+{"ID": 263, "Localidade": "Nova Tebas", "Faixa de CEP": "85250-000 a 85259-999"}
+{"ID": 264, "Localidade": "Novo Itacolomi", "Faixa de CEP": "86895-000 a 86899-999"}
+{"ID": 265, "Localidade": "Ortigueira", "Faixa de CEP": "84350-000 a 84399-999"}
+{"ID": 266, "Localidade": "Ourizona", "Faixa de CEP": "87170-000 a 87174-999"}
+{"ID": 267, "Localidade": "Ouro Verde do Oeste", "Faixa de CEP": "85933-000 a 85934-999"}
+{"ID": 268, "Localidade": "Paiçandu", "Faixa de CEP": "87140-000 a 87154-999"}
+{"ID": 269, "Localidade": "Palmas", "Faixa de CEP": "85555-000 a 85556-999"}
+{"ID": 270, "Localidade": "Palmeira", "Faixa de CEP": "84130-000 a 84139-999"}
+{"ID": 271, "Localidade": "Palmital", "Faixa de CEP": "85270-000 a 85274-999"}
+{"ID": 272, "Localidade": "Palotina", "Faixa de CEP": "85950-000 a 85954-999"}
+{"ID": 273, "Localidade": "Paraíso do Norte", "Faixa de CEP": "87780-000 a 87789-999"}
+{"ID": 274, "Localidade": "Paranacity", "Faixa de CEP": "87660-000 a 87669-999"}
+{"ID": 275, "Localidade": "Paranaguá", "Faixa de CEP": "83200-001 a 83254-999"}
+{"ID": 276, "Localidade": "Paranaguá", "Faixa de CEP": "83200-001 a 83249-999"}
+{"ID": 277, "Localidade": "Paranapoema", "Faixa de CEP": "87680-000 a 87689-999"}
+{"ID": 278, "Localidade": "Paranavaí", "Faixa de CEP": "87700-001 a 87729-999"}
+{"ID": 279, "Localidade": "Paranavaí", "Faixa de CEP": "87700-001 a 87721-999"}
+{"ID": 280, "Localidade": "Pato Bragado", "Faixa de CEP": "85948-000 a 85949-999"}
+{"ID": 281, "Localidade": "Pato Branco", "Faixa de CEP": "85500-001 a 85514-999"}
+{"ID": 282, "Localidade": "Pato Branco", "Faixa de CEP": "85500-001 a 85513-999"}
+{"ID": 283, "Localidade": "Paula Freitas", "Faixa de CEP": "84630-000 a 84634-999"}
+{"ID": 284, "Localidade": "Paulo Frontin", "Faixa de CEP": "84635-000 a 84639-999"}
+{"ID": 285, "Localidade": "Peabiru", "Faixa de CEP": "87250-000 a 87259-999"}
+{"ID": 286, "Localidade": "Perobal", "Faixa de CEP": "87538-000 a 87539-999"}
+{"ID": 287, "Localidade": "Pérola", "Faixa de CEP": "87540-000 a 87544-999"}
+{"ID": 288, "Localidade": "Pérola d'Oeste", "Faixa de CEP": "85740-000 a 85744-999"}
+{"ID": 289, "Localidade": "Piên", "Faixa de CEP": "83860-000 a 83869-999"}
+{"ID": 290, "Localidade": "Pinhais", "Faixa de CEP": "83320-001 a 83349-999"}
+{"ID": 291, "Localidade": "Pinhais", "Faixa de CEP": "83320-001 a 83349-999"}
+{"ID": 292, "Localidade": "Pinhal de São Bento", "Faixa de CEP": "85727-000 a 85729-999"}
+{"ID": 293, "Localidade": "Pinhalão", "Faixa de CEP": "84925-000 a 84929-999"}
+{"ID": 294, "Localidade": "Pinhão", "Faixa de CEP": "85170-000 a 85194-999"}
+{"ID": 295, "Localidade": "Piraí do Sul", "Faixa de CEP": "84240-000 a 84249-999"}
+{"ID": 296, "Localidade": "Piraquara", "Faixa de CEP": "83300-001 a 83319-999"}
+{"ID": 297, "Localidade": "Piraquara", "Faixa de CEP": "83300-001 a 83318-999"}
+{"ID": 298, "Localidade": "Pitanga", "Faixa de CEP": "85200-000 a 85224-999"}
+{"ID": 299, "Localidade": "Pitangueiras", "Faixa de CEP": "86613-000 a 86614-999"}
+{"ID": 300, "Localidade": "Planaltina do Paraná", "Faixa de CEP": "87860-000 a 87879-999"}
+{"ID": 301, "Localidade": "Planalto", "Faixa de CEP": "85750-000 a 85759-999"}
+{"ID": 302, "Localidade": "Ponta Grossa", "Faixa de CEP": "84000-001 a 84129-999"}
+{"ID": 303, "Localidade": "Ponta Grossa", "Faixa de CEP": "84000-001 a 84099-999"}
+{"ID": 304, "Localidade": "Pontal do Paraná", "Faixa de CEP": "83255-000 a 83259-999"}
+{"ID": 305, "Localidade": "Porecatu", "Faixa de CEP": "86160-000 a 86164-999"}
+{"ID": 306, "Localidade": "Porto Amazonas", "Faixa de CEP": "84140-000 a 84144-999"}
+{"ID": 307, "Localidade": "Porto Barreiro", "Faixa de CEP": "85345-000 a 85349-999"}
+{"ID": 308, "Localidade": "Porto Rico", "Faixa de CEP": "87950-000 a 87954-999"}
+{"ID": 309, "Localidade": "Porto Vitória", "Faixa de CEP": "84615-000 a 84619-999"}
+{"ID": 310, "Localidade": "Prado Ferreira", "Faixa de CEP": "86618-000 a 86619-999"}
+{"ID": 311, "Localidade": "Pranchita", "Faixa de CEP": "85730-000 a 85739-999"}
+{"ID": 312, "Localidade": "Presidente Castelo Branco", "Faixa de CEP": "87180-000 a 87184-999"}
+{"ID": 313, "Localidade": "Primeiro de Maio", "Faixa de CEP": "86140-000 a 86149-999"}
+{"ID": 314, "Localidade": "Prudentópolis", "Faixa de CEP": "84400-000 a 84429-999"}
+{"ID": 315, "Localidade": "Quarto Centenário", "Faixa de CEP": "87365-000 a 87369-999"}
+{"ID": 316, "Localidade": "Quatiguá", "Faixa de CEP": "86450-000 a 86454-999"}
+{"ID": 317, "Localidade": "Quatro Barras", "Faixa de CEP": "83420-000 a 83429-999"}
+{"ID": 318, "Localidade": "Quatro Pontes", "Faixa de CEP": "85940-000 a 85944-999"}
+{"ID": 319, "Localidade": "Quedas do Iguaçu", "Faixa de CEP": "85460-000 a 85464-999"}
+{"ID": 320, "Localidade": "Querência do Norte", "Faixa de CEP": "87930-000 a 87949-999"}
+{"ID": 321, "Localidade": "Quinta do Sol", "Faixa de CEP": "87265-000 a 87269-999"}
+{"ID": 322, "Localidade": "Quitandinha", "Faixa de CEP": "83840-000 a 83849-999"}
+{"ID": 323, "Localidade": "Ramilândia", "Faixa de CEP": "85888-000 a 85889-999"}
+{"ID": 324, "Localidade": "Rancho Alegre", "Faixa de CEP": "86290-000 a 86299-999"}
+{"ID": 325, "Localidade": "Rancho Alegre d'Oeste", "Faixa de CEP": "87395-000 a 87399-999"}
+{"ID": 326, "Localidade": "Realeza", "Faixa de CEP": "85770-000 a 85779-999"}
+{"ID": 327, "Localidade": "Rebouças", "Faixa de CEP": "84550-000 a 84559-999"}
+{"ID": 328, "Localidade": "Renascença", "Faixa de CEP": "85610-000 a 85614-999"}
+{"ID": 329, "Localidade": "Reserva", "Faixa de CEP": "84320-000 a 84344-999"}
+{"ID": 330, "Localidade": "Reserva do Iguaçu", "Faixa de CEP": "85195-000 a 85199-999"}
+{"ID": 331, "Localidade": "Ribeirão Claro", "Faixa de CEP": "86410-000 a 86419-999"}
+{"ID": 332, "Localidade": "Ribeirão do Pinhal", "Faixa de CEP": "86490-000 a 86599-999"}
+{"ID": 333, "Localidade": "Rio Azul", "Faixa de CEP": "84560-000 a 84569-999"}
+{"ID": 334, "Localidade": "Rio Bom", "Faixa de CEP": "86830-000 a 86839-999"}
+{"ID": 335, "Localidade": "Rio Bonito do Iguaçu", "Faixa de CEP": "85340-000 a 85344-999"}
+{"ID": 336, "Localidade": "Rio Branco do Ivaí", "Faixa de CEP": "86848-000 a 86849-999"}
+{"ID": 337, "Localidade": "Rio Branco do Sul", "Faixa de CEP": "83540-000 a 83559-999"}
+{"ID": 338, "Localidade": "Rio Negro", "Faixa de CEP": "83880-000 a 83899-999"}
+{"ID": 339, "Localidade": "Rolândia", "Faixa de CEP": "86600-001 a 86609-999"}
+{"ID": 340, "Localidade": "Rolândia", "Faixa de CEP": "86600-001 a 86609-999"}
+{"ID": 341, "Localidade": "Roncador", "Faixa de CEP": "87320-000 a 87324-999"}
+{"ID": 342, "Localidade": "Rondon", "Faixa de CEP": "87800-000 a 87809-999"}
+{"ID": 343, "Localidade": "Rosário do Ivaí", "Faixa de CEP": "86850-000 a 86854-999"}
+{"ID": 344, "Localidade": "Sabáudia", "Faixa de CEP": "86720-000 a 86729-999"}
+{"ID": 345, "Localidade": "Salgado Filho", "Faixa de CEP": "85620-000 a 85627-999"}
+{"ID": 346, "Localidade": "Salto do Itararé", "Faixa de CEP": "84945-000 a 84949-999"}
+{"ID": 347, "Localidade": "Salto do Lontra", "Faixa de CEP": "85670-000 a 85679-999"}
+{"ID": 348, "Localidade": "Santa Amélia", "Faixa de CEP": "86370-000 a 86374-999"}
+{"ID": 349, "Localidade": "Santa Cecília do Pavão", "Faixa de CEP": "86225-000 a 86229-999"}
+{"ID": 350, "Localidade": "Santa Cruz de Monte Castelo", "Faixa de CEP": "87920-000 a 87929-999"}
+{"ID": 351, "Localidade": "Santa Fé", "Faixa de CEP": "86770-000 a 86779-999"}
+{"ID": 352, "Localidade": "Santa Helena", "Faixa de CEP": "85892-000 a 85895-999"}
+{"ID": 353, "Localidade": "Santa Inês", "Faixa de CEP": "86660-000 a 86669-999"}
+{"ID": 354, "Localidade": "Santa Isabel do Ivaí", "Faixa de CEP": "87910-000 a 87914-999"}
+{"ID": 355, "Localidade": "Santa Izabel do Oeste", "Faixa de CEP": "85650-000 a 85659-999"}
+{"ID": 356, "Localidade": "Santa Lúcia", "Faixa de CEP": "85795-000 a 85799-999"}
+{"ID": 357, "Localidade": "Santa Maria do Oeste", "Faixa de CEP": "85230-000 a 85239-999"}
+{"ID": 358, "Localidade": "Santa Mariana", "Faixa de CEP": "86350-000 a 86359-999"}
+{"ID": 359, "Localidade": "Santa Mônica", "Faixa de CEP": "87915-000 a 87919-999"}
+{"ID": 360, "Localidade": "Santa Tereza do Oeste", "Faixa de CEP": "85825-000 a 85825-999"}
+{"ID": 361, "Localidade": "Santa Terezinha de Itaipu", "Faixa de CEP": "85875-000 a 85876-999"}
+{"ID": 362, "Localidade": "Santana do Itararé", "Faixa de CEP": "84970-000 a 84979-999"}
+{"ID": 363, "Localidade": "Santo Antônio da Platina", "Faixa de CEP": "86430-000 a 86449-999"}
+{"ID": 364, "Localidade": "Santo Antônio do Caiuá", "Faixa de CEP": "87730-000 a 87739-999"}
+{"ID": 365, "Localidade": "Santo Antônio do Paraíso", "Faixa de CEP": "86315-000 a 86319-999"}
+{"ID": 366, "Localidade": "Santo Antônio do Sudoeste", "Faixa de CEP": "85710-000 a 85726-999"}
+{"ID": 367, "Localidade": "Santo Inácio", "Faixa de CEP": "86650-000 a 86659-999"}
+{"ID": 368, "Localidade": "São Carlos do Ivaí", "Faixa de CEP": "87770-000 a 87779-999"}
+{"ID": 369, "Localidade": "São Jerônimo da Serra", "Faixa de CEP": "86270-000 a 86279-999"}
+{"ID": 370, "Localidade": "São João", "Faixa de CEP": "85570-000 a 85574-999"}
+{"ID": 371, "Localidade": "São João do Caiuá", "Faixa de CEP": "87740-000 a 87749-999"}
+{"ID": 372, "Localidade": "São João do Ivaí", "Faixa de CEP": "86930-000 a 86934-999"}
+{"ID": 373, "Localidade": "São João do Triunfo", "Faixa de CEP": "84150-000 a 84159-999"}
+{"ID": 374, "Localidade": "São Jorge do Ivaí", "Faixa de CEP": "87190-000 a 87199-999"}
+{"ID": 375, "Localidade": "São Jorge do Patrocínio", "Faixa de CEP": "87555-000 a 87559-999"}
+{"ID": 376, "Localidade": "São Jorge D'Oeste", "Faixa de CEP": "85575-000 a 85579-999"}
+{"ID": 377, "Localidade": "São José da Boa Vista", "Faixa de CEP": "84980-000 a 84989-999"}
+{"ID": 378, "Localidade": "São José das Palmeiras", "Faixa de CEP": "85898-000 a 85899-999"}
+{"ID": 379, "Localidade": "São José dos Pinhais", "Faixa de CEP": "83000-001 a 83189-999"}
+{"ID": 380, "Localidade": "São José dos Pinhais", "Faixa de CEP": "83000-001 a 83149-999"}
+{"ID": 381, "Localidade": "São Manoel do Paraná", "Faixa de CEP": "87215-000 a 87219-999"}
+{"ID": 382, "Localidade": "São Mateus do Sul", "Faixa de CEP": "83900-000 a 83979-999"}
+{"ID": 383, "Localidade": "São Miguel do Iguaçu", "Faixa de CEP": "85877-000 a 85879-999"}
+{"ID": 384, "Localidade": "São Pedro do Iguaçu", "Faixa de CEP": "85929-000 a 85929-999"}
+{"ID": 385, "Localidade": "São Pedro do Ivaí", "Faixa de CEP": "86945-000 a 86949-999"}
+{"ID": 386, "Localidade": "São Pedro do Paraná", "Faixa de CEP": "87955-000 a 87959-999"}
+{"ID": 387, "Localidade": "São Sebastião da Amoreira", "Faixa de CEP": "86240-000 a 86249-999"}
+{"ID": 388, "Localidade": "São Tomé", "Faixa de CEP": "87220-000 a 87224-999"}
+{"ID": 389, "Localidade": "Sapopema", "Faixa de CEP": "84290-000 a 84299-999"}
+{"ID": 390, "Localidade": "Sarandi", "Faixa de CEP": "87110-001 a 87119-999"}
+{"ID": 391, "Localidade": "Sarandi", "Faixa de CEP": "87110-001 a 87119-999"}
+{"ID": 392, "Localidade": "Saudade do Iguaçu", "Faixa de CEP": "85568-000 a 85569-999"}
+{"ID": 393, "Localidade": "Sengés", "Faixa de CEP": "84220-000 a 84239-999"}
+{"ID": 394, "Localidade": "Serranópolis do Iguaçu", "Faixa de CEP": "85885-000 a 85886-999"}
+{"ID": 395, "Localidade": "Sertaneja", "Faixa de CEP": "86340-000 a 86349-999"}
+{"ID": 396, "Localidade": "Sertanópolis", "Faixa de CEP": "86170-000 a 86179-999"}
+{"ID": 397, "Localidade": "Siqueira Campos", "Faixa de CEP": "84940-000 a 84944-999"}
+{"ID": 398, "Localidade": "Sulina", "Faixa de CEP": "85565-000 a 85567-999"}
+{"ID": 399, "Localidade": "Tamarana", "Faixa de CEP": "86125-000 a 86129-999"}
+{"ID": 400, "Localidade": "Tamboara", "Faixa de CEP": "87760-000 a 87769-999"}
+{"ID": 401, "Localidade": "Tapejara", "Faixa de CEP": "87430-000 a 87449-999"}
+{"ID": 402, "Localidade": "Tapira", "Faixa de CEP": "87830-000 a 87839-999"}
+{"ID": 403, "Localidade": "Teixeira Soares", "Faixa de CEP": "84530-000 a 84534-999"}
+{"ID": 404, "Localidade": "Telêmaco Borba", "Faixa de CEP": "84260-001 a 84279-999"}
+{"ID": 405, "Localidade": "Telêmaco Borba", "Faixa de CEP": "84260-001 a 84274-999"}
+{"ID": 406, "Localidade": "Terra Boa", "Faixa de CEP": "87240-000 a 87249-999"}
+{"ID": 407, "Localidade": "Terra Rica", "Faixa de CEP": "87890-000 a 87899-999"}
+{"ID": 408, "Localidade": "Terra Roxa", "Faixa de CEP": "85990-000 a 85997-999"}
+{"ID": 409, "Localidade": "Tibagi", "Faixa de CEP": "84300-000 a 84319-999"}
+{"ID": 410, "Localidade": "Tijucas do Sul", "Faixa de CEP": "83190-000 a 83199-999"}
+{"ID": 411, "Localidade": "Toledo", "Faixa de CEP": "85900-001 a 85928-999"}
+{"ID": 412, "Localidade": "Toledo", "Faixa de CEP": "85900-001 a 85919-999"}
+{"ID": 413, "Localidade": "Tomazina", "Faixa de CEP": "84935-000 a 84939-999"}
+{"ID": 414, "Localidade": "Três Barras do Paraná", "Faixa de CEP": "85485-000 a 85499-999"}
+{"ID": 415, "Localidade": "Tunas do Paraná", "Faixa de CEP": "83480-000 a 83489-999"}
+{"ID": 416, "Localidade": "Tuneiras do Oeste", "Faixa de CEP": "87450-000 a 87469-999"}
+{"ID": 417, "Localidade": "Tupãssi", "Faixa de CEP": "85945-000 a 85947-999"}
+{"ID": 418, "Localidade": "Turvo", "Faixa de CEP": "85150-000 a 85154-999"}
+{"ID": 419, "Localidade": "Ubiratã", "Faixa de CEP": "85440-000 a 85449-999"}
+{"ID": 420, "Localidade": "Umuarama", "Faixa de CEP": "87500-001 a 87524-999"}
+{"ID": 421, "Localidade": "Umuarama", "Faixa de CEP": "87500-001 a 87515-999"}
+{"ID": 422, "Localidade": "União da Vitória", "Faixa de CEP": "84600-001 a 84614-999"}
+{"ID": 423, "Localidade": "União da Vitória", "Faixa de CEP": "84600-001 a 84612-999"}
+{"ID": 424, "Localidade": "Uniflor", "Faixa de CEP": "87640-000 a 87649-999"}
+{"ID": 425, "Localidade": "Uraí", "Faixa de CEP": "86280-000 a 86289-999"}
+{"ID": 426, "Localidade": "Ventania", "Faixa de CEP": "84345-000 a 84349-999"}
+{"ID": 427, "Localidade": "Vera Cruz do Oeste", "Faixa de CEP": "85845-000 a 85849-999"}
+{"ID": 428, "Localidade": "Verê", "Faixa de CEP": "85585-000 a 85597-999"}
+{"ID": 429, "Localidade": "Virmond", "Faixa de CEP": "85390-000 a 85399-999"}
+{"ID": 430, "Localidade": "Vitorino", "Faixa de CEP": "85520-000 a 85524-999"}
+{"ID": 431, "Localidade": "Wenceslau Braz", "Faixa de CEP": "84950-000 a 84969-999"}
+{"ID": 432, "Localidade": "Xambrê", "Faixa de CEP": "87535-000 a 87537-999"}
